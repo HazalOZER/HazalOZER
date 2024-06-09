@@ -33,7 +33,7 @@ src=https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif align=right>
 <br>
 <br>
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"    />][linkedin]
+[<img height="32" width="32" color="white" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"    />][linkedin]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/github.svg" />][github]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
